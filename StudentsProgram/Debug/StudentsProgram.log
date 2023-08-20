@@ -1,0 +1,108 @@
+﻿生成启动时间为 2019/7/6 10:35:00。
+     1>项目“C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\StudentsProgram\StudentsProgram.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\StudentsProgram.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Application\VS 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt add.cpp delete.cpp init.cpp land.cpp main.cpp menu.cpp mod_menu.cpp mod_name.cpp mod_num.cpp print.cpp search_menu.cpp search_name.cpp search_num.cpp sort_menu.cpp sort_num.cpp sort_sum.cpp welcome_screen.cpp
+         welcome_screen.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\welcome_screen.cpp(6): warning C4101: “next”: 未引用的局部变量
+         sort_sum.cpp
+         sort_num.cpp
+         sort_menu.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\sort_menu.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         search_num.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\search_num.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         search_name.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\search_name.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         search_menu.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\search_menu.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         print.cpp
+         mod_num.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_num.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_num.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_num.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_num.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         mod_name.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_name.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_name.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_name.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_name.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         mod_menu.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\mod_menu.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         menu.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\menu.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         main.cpp
+         land.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\land.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         init.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\init.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\init.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\init.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         delete.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\delete.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\delete.cpp(14): warning C4101: “j”: 未引用的局部变量
+         add.cpp
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\add.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\add.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\add.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\playstation computer\desktop\           \重要信息\作业相关\19作业\studentsprogram00\studentsprogram\add.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\vs 2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\StudentsProgram.exe.embed.manifest.res" Debug\StudentsProgram_manifest.rc 
+       Link:
+         D:\Application\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\Debug\StudentsProgram.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\StudentsProgram.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\Debug\StudentsProgram.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\Debug\StudentsProgram.lib" /MACHINE:X86 Debug\StudentsProgram.exe.embed.manifest.res
+         Debug\add.obj
+         Debug\delete.obj
+         Debug\init.obj
+         Debug\land.obj
+         Debug\main.obj
+         Debug\menu.obj
+         Debug\mod_menu.obj
+         Debug\mod_name.obj
+         Debug\mod_num.obj
+         Debug\print.obj
+         Debug\search_menu.obj
+         Debug\search_name.obj
+         Debug\search_num.obj
+         Debug\sort_menu.obj
+         Debug\sort_num.obj
+         Debug\sort_sum.obj
+         Debug\welcome_screen.obj
+         LINK : 没有找到 C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\Debug\StudentsProgram.exe 或上一个增量链接没有生成它；正在执行完全链接
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\StudentsProgram.exe.embed.manifest" /manifest Debug\StudentsProgram.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         StudentsProgram.vcxproj -> C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\Debug\StudentsProgram.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\StudentsProgram.unsuccessfulbuild”。
+         正在对“Debug\StudentsProgram.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\PlayStation Computer\Desktop\           \重要信息\作业相关\19作业\StudentsProgram00\StudentsProgram\StudentsProgram.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.62
