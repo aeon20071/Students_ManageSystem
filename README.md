@@ -1,4 +1,5 @@
-# 基于C语言的学生成绩管理系统 Student Achievement Management System Based on C
+# 基于C语言的学生成绩管理系统
+# Student Achievement Management System Based on C
 
 ## 1. 说明 Description
 
